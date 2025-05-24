@@ -2,7 +2,7 @@
 
 ## 🚀 Problem Solving Goals
 
-- ✅ Daily practice of 1-3 LeetCode problems
+- ✅ Daily practice of 2-5 LeetCode problems
 - ✅ Build strong fundamentals in core DSA topics
 - ✅ Improve problem-solving speed for interviews & contests
 - ✅ Track personal progress with commit history
@@ -11,8 +11,8 @@
 
 ## 🛠️ Languages & Tools
 
-- *Language:* Java (main)
-- *IDE:* IntelliJ / VS Code
+- *Language:* c++
+- *IDE:*  VS Code
 - *Platform:* LeetCode
 
 ---
@@ -43,9 +43,9 @@ You can check the commit history to view daily activity and topics practiced.
 ## 💡 How to Use
 
 1. Browse to a folder by topic
-2. Open the .java files for each problem
+2. Open the .cpp files for each problem
 3. Code is well-commented for learning purposes
-4. Run using any Java IDE or CLI
+4. Run using any c++ IDE or CLI
 
 ---
 
